@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+
+  figure {
+    text-align: center;
+    image-orientation: center;
+  }
+
+ nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: darkgrey;
+ }
+ section{
+  text-align: 800px;
+  text-align: center;
+  text-align: center;
+  ;
+ }
+
+  div {
+    float: left;
+    text-align: center;
+    width: 25%;
+    background-color: crimson;
+  }
